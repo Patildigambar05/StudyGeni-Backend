@@ -9,7 +9,7 @@
     "dev": "nodemon api/index.js"
   },
   "keywords": [],
-  "author": "Shravan Desale",
+  "author": "Digambar Patil",
   "license": "ISC",
   "type": "module",
   "dependencies": {

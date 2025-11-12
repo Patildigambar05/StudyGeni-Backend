@@ -14,7 +14,7 @@ app.use("/api/teacher", teacherRoutes);
 app.use("/api/student", studentRoutes);
 
 app.get("/", (req, res) => {
-  res.send("Welcome to the StudyGeni Platform !");
+  res.send("Welcome to the AI learning platform created by Digambar Patil");
 });
 
 const PORT = process.env.PORT || 3000;
